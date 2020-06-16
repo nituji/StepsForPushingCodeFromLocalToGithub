@@ -1,0 +1,17 @@
+/*
+git config --global http.sslVerify false --->> to make the SSL Certificate false
+
+step 1 : go to project directory through cmd
+cd C:\Users\ajitesh.raj\Desktop\Seleniumpractice\FirstDemo
+
+Step 2 : git init
+Step 3 : git status
+step 4 : git add .   or git add filenamewithpath
+Step 5 : git commit -m "comments"
+step 6 : create new repository in github and take the url 
+Step 7 : git remote add origin https://github.com/nituji/FirstDemo.git
+Step 8 : git push origin master 
+
+
+
+*/
